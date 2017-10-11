@@ -1,4 +1,4 @@
-package com.zhouqi.factory.abstract_factory;
+package com.zhouqi.factory.method;
 
 public class FactoryBmw320 implements Factory {
 

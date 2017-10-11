@@ -1,4 +1,4 @@
-package com.zhouqi.factory.abstract_factory;
+package com.zhouqi.factory.simple;
 
 public abstract class Bmw {
     public Bmw() {

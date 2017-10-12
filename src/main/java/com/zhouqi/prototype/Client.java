@@ -8,6 +8,6 @@ public class Client {
 //            clonecp.show();
 //        }
         ConcretePrototype clonecp = (ConcretePrototype)cp.clone();
-        System.out.println(cp==clonecp);
+        System.out.println(cp==clonecp);//false
     }
 }
